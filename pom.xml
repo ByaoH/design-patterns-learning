@@ -11,6 +11,7 @@
 	<modules>
 		<module>framework</module>
 		<module>strategy</module>
+		<module>visitor-pattern</module>
 	</modules>
 
 	<properties>
