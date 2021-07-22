@@ -12,6 +12,7 @@
 		<module>framework</module>
 		<module>strategy</module>
 		<module>visitor-pattern</module>
+		<module>pipeline-pattern</module>
 	</modules>
 
 	<properties>
